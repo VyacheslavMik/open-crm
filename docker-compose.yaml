@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  db:
+    image: postgres
+    container_name: open_crm_db
+    ports:
+      - "127.0.0.1:5460:4321"
+    volumes:
+      - "./pgdata:/data"
+    environment:
+      PGPORT:            4321
+      POSTGRES_USER:     postgres
+      POSTGRES_PASSWORD: postgres

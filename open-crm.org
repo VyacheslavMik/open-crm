@@ -1,0 +1,48 @@
+* MVP
+** DONE Create Dockerfile
+** DONE Make build process
+** DONE Config github start build
+** DONE Split js for several files
+** DONE Develop neat react-interop
+** DONE Upload images
+** DONE Develop routing
+** DONE Develop menu
+** DONE Develop material text input
+** DONE Develop material select input
+** DONE Develop material date input
+** DONE Develop form language
+** DONE Implement category form
+** DONE Refactor entity definition macros
+** DONE Move transfers to dedicated entity
+** DONE Add payments to booking
+** DONE Add check-in to booking
+** DONE Fix booking calendar style
+*** DONE Add interval selection
+*** DONE Add quick booking from booking calendar
+** DONE Fix menu width
+** DONE Collapse menu categories
+** DONE Remove whatsapp and sms integration
+** DONE Enter date from keyboard
+** DONE Fix select-input
+** DONE Select-input has no elements property
+** DONE Class prpoerty can work with nil values
+** DONE Align the add button on the offer page
+** DONE Use new entity code from betelgeuse
+** DONE Use page navigation from betelgeuse
+** DONE Store selected page
+** DONE Add room selection for new booking
+** DONE Use new navigation system for booking page
+** DONE Go to created booking
+** DONE Changing check in/check out must change prices when creating from calendar page
+** DONE Date input supports two types: date-month and full-date
+** DONE Price interval needs to be rewritten
+** TODO Move categories to new navigation system
+** TODO Create booking from offer
+** DONE Add SendGrid integration
+** TODO Add delete question
+** DONE New database for new client
+** TODO Show more info on booking entry
+** TODO Fix bookng page button styles & booking payment more pretty style
+** TODO Make users notification about system changing.
+** TODO Think about payment for offers sending
+** TODO Store a draft offer into the local storage
